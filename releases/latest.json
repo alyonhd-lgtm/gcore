@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.2/GCore.apk",
-  "changelog": "Home rinnovata: hero a tutta larghezza con logo, Continua a guardare diviso Film e Serie (nascosto se vuoto), Preferiti nascosti se vuoti, sfondo gradiente unificato in tutte le sezioni. Dettaglio con backdrop sfumato. Nuovo bottone Tutte le categorie a fianco della ricerca."
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.3/GCore.apk",
+  "changelog": "Avvio riproduzione più rapido: buffer iniziale ridotto per uno zapping Live più veloce, mantenendo stabilità contro i micro-stutter."
 }
