@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.5/GCore.apk",
-  "changelog": "Tema metal completato: acciaio spazzolato su login e pannello utente, bezel metallici su tutte le card e sui bottoni. Titanio scuro + arancio incandescente."
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.6/GCore.apk",
+  "changelog": "Fix: la testata (logo e barra) non finisce più sotto l'orario e le icone di sistema. Tema metal titanio + arancio incandescente."
 }
