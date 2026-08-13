@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.6/GCore.apk",
-  "changelog": "Fix: la testata (logo e barra) non finisce più sotto l'orario e le icone di sistema. Tema metal titanio + arancio incandescente."
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.7/GCore.apk",
+  "changelog": "Barra di stato in acciaio: il top è ora uniforme (niente più sfondo a vista dietro l'orario). Tema metal titanio + arancio incandescente."
 }
