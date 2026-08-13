@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.7/GCore.apk",
-  "changelog": "Barra di stato in acciaio: il top è ora uniforme (niente più sfondo a vista dietro l'orario). Tema metal titanio + arancio incandescente."
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.8/GCore.apk",
+  "changelog": "Scelta profilo rinnovata in stile metal: medaglioni circolari con anello in acciaio, focus arancione incandescente, riquadro Aggiungi profilo."
 }
