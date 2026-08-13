@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.9/GCore.apk",
-  "changelog": "Player rinnovato: gesture (doppio tap avanti/indietro o cambio canale, swipe per volume e luminosita, tap-tenuto per velocita 2x), controlli in stile metal con play incandescente e seek bar trascinabile. Su Windows: rotella mouse per il volume e controlli centrali metal."
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.10/GCore.apk",
+  "changelog": "Player rinnovato con gesture (doppio tap avanti/indietro o cambio canale, swipe per volume e luminosita, tap-tenuto per velocita 2x) e controlli in stile metal. Pulizia interna del codice."
 }
