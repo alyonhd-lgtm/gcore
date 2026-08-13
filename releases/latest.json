@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.8/GCore.apk",
-  "changelog": "Scelta profilo rinnovata in stile metal: medaglioni circolari con anello in acciaio, focus arancione incandescente, riquadro Aggiungi profilo."
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.9/GCore.apk",
+  "changelog": "Player rinnovato: gesture (doppio tap avanti/indietro o cambio canale, swipe per volume e luminosita, tap-tenuto per velocita 2x), controlli in stile metal con play incandescente e seek bar trascinabile. Su Windows: rotella mouse per il volume e controlli centrali metal."
 }
