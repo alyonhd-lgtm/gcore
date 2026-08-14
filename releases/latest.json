@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.10/GCore.apk",
-  "changelog": "Player rinnovato con gesture (doppio tap avanti/indietro o cambio canale, swipe per volume e luminosita, tap-tenuto per velocita 2x) e controlli in stile metal. Pulizia interna del codice."
+  "versionCode": 12,
+  "versionName": "1.0.11",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.11/GCore.apk",
+  "changelog": "Interazioni potenziate: menu contestuali ricchi, Annulla dopo le rimozioni, azioni di massa per categoria, riordino dei preferiti con trascinamento e multi-selezione con azioni bulk."
 }
