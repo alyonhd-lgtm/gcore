@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.0.36",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.36/GCore.apk",
-  "changelog": "Diretta molto piu pulita: uniti i doppioni dello stesso canale (numerati [201]/[206] + SD/HD/FHD), rimossi i placeholder 'Nessun evento in onda' (es. DAZN in preseason). Ora DAZN mostra gli eventi veri."
+  "versionCode": 38,
+  "versionName": "1.0.37",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.37/GCore.apk",
+  "changelog": "Diretta: una riga per evento. Lo stesso evento trasmesso su piu canali viene mostrato una volta sola, tenendo il canale di qualita migliore (FHD/HD)."
 }
