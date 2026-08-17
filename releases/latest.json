@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.39",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.39/GCore.apk",
-  "changelog": "FIX IMPORTANTE: aprendo un canale da Live/ricerca ora si apre davvero QUEL canale (prima finivi sempre sul primo della categoria). Un solo BACK per uscire. Fire TV: in caso di errore i tasti Riprova/Indietro ora si raggiungono col telecomando e il tasto MENU non blocca piu i comandi. Diretta: non scarta piu eventi con 2024/24a giornata. Update piu affidabile, crash log senza credenziali."
+  "versionCode": 41,
+  "versionName": "1.0.40",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.40/GCore.apk",
+  "changelog": "IMPORTANTE: corretto un difetto della 1.0.39 che impediva di passare tra Live, Film e Serie. Diretta: niente canali stranieri ne doppioni, ora include anche i canali senza guida (DAZN), non scarta piu eventi in corso e mostra solo la giornata di oggi. Ricerca Live: una voce per canale. Fire TV: tasto MENU e schermata di errore sistemati. Privacy: credenziali oscurate nei log e backup cloud disattivato."
 }
