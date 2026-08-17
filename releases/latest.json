@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.38",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.38/GCore.apk",
-  "changelog": "Con un solo profilo l'app entra diretta (niente 'chi sta guardando' ad ogni avvio). Diretta: logo del canale accanto a ogni evento e icona calendario piu pulita."
+  "versionCode": 40,
+  "versionName": "1.0.39",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.39/GCore.apk",
+  "changelog": "FIX IMPORTANTE: aprendo un canale da Live/ricerca ora si apre davvero QUEL canale (prima finivi sempre sul primo della categoria). Un solo BACK per uscire. Fire TV: in caso di errore i tasti Riprova/Indietro ora si raggiungono col telecomando e il tasto MENU non blocca piu i comandi. Diretta: non scarta piu eventi con 2024/24a giornata. Update piu affidabile, crash log senza credenziali."
 }
