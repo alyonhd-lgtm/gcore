@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.11/GCore.apk",
-  "changelog": "Interazioni potenziate: menu contestuali ricchi, Annulla dopo le rimozioni, azioni di massa per categoria, riordino dei preferiti con trascinamento e multi-selezione con azioni bulk."
+  "versionCode": 13,
+  "versionName": "1.0.12",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.12/GCore.apk",
+  "changelog": "Migliorie Fire TV / telecomando: focus iniziale sulle schermate, tasto MENU nel player per audio, sottotitoli, qualita e formato col D-pad, riordino dei preferiti con Sposta su/giu, rilevamento TV piu robusto."
 }
