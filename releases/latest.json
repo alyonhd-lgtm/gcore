@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.37",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.37/GCore.apk",
-  "changelog": "Diretta: una riga per evento. Lo stesso evento trasmesso su piu canali viene mostrato una volta sola, tenendo il canale di qualita migliore (FHD/HD)."
+  "versionCode": 39,
+  "versionName": "1.0.38",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.38/GCore.apk",
+  "changelog": "Con un solo profilo l'app entra diretta (niente 'chi sta guardando' ad ogni avvio). Diretta: logo del canale accanto a ogni evento e icona calendario piu pulita."
 }
