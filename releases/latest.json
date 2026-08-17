@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.19",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.19/GCore.apk",
-  "changelog": "Serie TV: aggiunto il comando Episodio successivo (e precedente) nel player, raggiungibile col telecomando (tasto MENU o tasti media)."
+  "versionCode": 21,
+  "versionName": "1.0.20",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.20/GCore.apk",
+  "changelog": "Fire TV: navigazione Home migliorata. Scorrendo su/giu col telecomando l'intestazione della sezione resta visibile."
 }
