@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.43",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.43/GCore.apk",
-  "changelog": "Piu fluida su Fire Stick: scrivere nella ricerca non fa piu scattare la schermata (il filtro lavora in background) e durante i film il player non ridisegna piu tutto due volte al secondo."
+  "versionCode": 45,
+  "versionName": "1.0.44",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.44/GCore.apk",
+  "changelog": "Player su telefono: la barra di avanzamento non finisce piu sotto i pulsanti e si trascina bene (area di tocco piu grande, anteprima mentre trascini). Gesture piu prevedibili: niente cambio canale per sbaglio col doppio tocco, menu che non si chiudono da soli, luminosita ripristinata all'uscita. Nuovo strumento in Utente: Verifica canali."
 }
