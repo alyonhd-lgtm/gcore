@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.0.20",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.20/GCore.apk",
-  "changelog": "Fire TV: navigazione Home migliorata. Scorrendo su/giu col telecomando l'intestazione della sezione resta visibile."
+  "versionCode": 22,
+  "versionName": "1.0.21",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.21/GCore.apk",
+  "changelog": "Verifica aggiornamenti piu affidabile: forza il controllo senza cache e distingue l'errore di rete dal 'sei gia aggiornato'."
 }
