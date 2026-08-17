@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.24",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.24/GCore.apk",
-  "changelog": "Nuova sezione 'Diretta': il calendario sport del giorno (calcio, tennis, MotoGP, F1, boxe, basket) con orari e canale, un tocco per aprire. I dati dipendono dall'EPG del provider."
+  "versionCode": 26,
+  "versionName": "1.0.25",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.25/GCore.apk",
+  "changelog": "Diretta: riconoscimento eventi molto piu ampio (sui canali sport mostra tutti i programmi tranne studio/notiziari) e, se vuota, mostra una diagnostica (canali sport / con guida EPG) per capire il motivo."
 }
