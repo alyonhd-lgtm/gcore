@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.17",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.17/GCore.apk",
-  "changelog": "Login Fire TV riprogettato: i campi sono righe navigabili (su/giu senza tastiera), OK apre un popup con la tastiera per scrivere DNS, Username e Password."
+  "versionCode": 19,
+  "versionName": "1.0.18",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.18/GCore.apk",
+  "changelog": "Nuovo in Utente: Verifica aggiornamenti. Un tocco controlla se c'e una versione nuova e, se la trova, la scarica e avvia l'installazione."
 }
