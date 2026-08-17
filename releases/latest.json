@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.30",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.30/GCore.apk",
-  "changelog": "Diretta: orario eventi corretto. Ora usa sempre il fuso italiano (Europe/Rome), cosi l'ora e giusta anche se l'orologio della Fire TV e su UTC."
+  "versionCode": 32,
+  "versionName": "1.0.31",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.31/GCore.apk",
+  "changelog": "Diretta: niente eventi gia finiti. Ora mostra solo cio che e in onda adesso o che deve ancora iniziare."
 }
