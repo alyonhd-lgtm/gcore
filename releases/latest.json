@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.21",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.21/GCore.apk",
-  "changelog": "Verifica aggiornamenti piu affidabile: forza il controllo senza cache e distingue l'errore di rete dal 'sei gia aggiornato'."
+  "versionCode": 23,
+  "versionName": "1.0.22",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.22/GCore.apk",
+  "changelog": "Aggiornamenti a prova di cache: l'app ora legge la versione dal link 'latest' delle release (niente piu manifest vecchio in cache). Verifica aggiornamenti affidabile."
 }
