@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.0.23",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.23/GCore.apk",
-  "changelog": "Correzioni da audit: i controlli del player col telecomando (tasto MENU) ora funzionano; risolto un possibile crash nel ripristino focus delle righe; estensione episodio corretta nel salvataggio; migliorie a riordino, rilevamento TV e notifiche aggiornamento."
+  "versionCode": 25,
+  "versionName": "1.0.24",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.24/GCore.apk",
+  "changelog": "Nuova sezione 'Diretta': il calendario sport del giorno (calcio, tennis, MotoGP, F1, boxe, basket) con orari e canale, un tocco per aprire. I dati dipendono dall'EPG del provider."
 }
