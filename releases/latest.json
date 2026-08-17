@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "1.0.41",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.41/GCore.apk",
-  "changelog": "Privacy: rimossi dal codice gli indirizzi del provider, che restavano scritti dentro l'app pubblicata. Il login non cambia: i campi erano gia da compilare a mano e le credenziali salvate restano valide."
+  "versionCode": 43,
+  "versionName": "1.0.42",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.42/GCore.apk",
+  "changelog": "Sicurezza e privacy: l'aggiornamento viene scaricato solo da indirizzi https del repository ufficiale, e i messaggi di errore mostrati a schermo non possono piu contenere le tue credenziali."
 }
