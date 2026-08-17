@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.0.27",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.27/GCore.apk",
-  "changelog": "Diretta: ora legge la guida dal file XMLTV del provider (usato quando l'API per-canale e vuota). Se il tuo provider pubblica l'XMLTV, il calendario si popola. Un solo download per tutti i canali."
+  "versionCode": 29,
+  "versionName": "1.0.28",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.28/GCore.apk",
+  "changelog": "Diretta migliorata: solo eventi/canali italiani; niente doppioni SD/HD/FHD (tiene la qualita migliore); descrizione dell'evento piu chiara con canale in evidenza."
 }
