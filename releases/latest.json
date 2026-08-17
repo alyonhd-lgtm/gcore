@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.26/GCore.apk",
-  "changelog": "Diretta: risolto il caso 'eventi trovati ma lista vuota'. Finestra oraria robusta (immune al fuso del provider): ora gli eventi in onda e delle prossime ore compaiono correttamente."
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.27/GCore.apk",
+  "changelog": "Diretta: ora legge la guida dal file XMLTV del provider (usato quando l'API per-canale e vuota). Se il tuo provider pubblica l'XMLTV, il calendario si popola. Un solo download per tutti i canali."
 }
