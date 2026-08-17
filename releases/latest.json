@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.32",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.32/GCore.apk",
-  "changelog": "Diretta: quando lo stesso canale esiste in piu qualita, l'evento apre la versione HD/FHD (di solito quella che funziona) invece di una a caso."
+  "versionCode": 34,
+  "versionName": "1.0.33",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.33/GCore.apk",
+  "changelog": "Ricerca: toccando un canale ora parte subito quel canale (prima si fermava sulla scheda e non apriva il canale)."
 }
