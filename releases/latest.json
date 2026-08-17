@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.29",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.29/GCore.apk",
-  "changelog": "Diretta: descrizione evento piu chiara. Ora se il titolo e generico (Calcio, Diretta) usa l'evento vero dalla guida; il testo viene chiuso a fine frase, non tagliato a meta."
+  "versionCode": 31,
+  "versionName": "1.0.30",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.30/GCore.apk",
+  "changelog": "Diretta: orario eventi corretto. Ora usa sempre il fuso italiano (Europe/Rome), cosi l'ora e giusta anche se l'orologio della Fire TV e su UTC."
 }
