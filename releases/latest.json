@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.16",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.16/GCore.apk",
-  "changelog": "Login su Fire TV: i campi non aprono piu la tastiera da soli. Con su/giu ci si muove tra DNS, Username e Password; premendo OK il campo si attiva e si apre la tastiera."
+  "versionCode": 18,
+  "versionName": "1.0.17",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.17/GCore.apk",
+  "changelog": "Login Fire TV riprogettato: i campi sono righe navigabili (su/giu senza tastiera), OK apre un popup con la tastiera per scrivere DNS, Username e Password."
 }
