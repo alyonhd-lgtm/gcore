@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.0.22",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.22/GCore.apk",
-  "changelog": "Aggiornamenti a prova di cache: l'app ora legge la versione dal link 'latest' delle release (niente piu manifest vecchio in cache). Verifica aggiornamenti affidabile."
+  "versionCode": 24,
+  "versionName": "1.0.23",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.23/GCore.apk",
+  "changelog": "Correzioni da audit: i controlli del player col telecomando (tasto MENU) ora funzionano; risolto un possibile crash nel ripristino focus delle righe; estensione episodio corretta nel salvataggio; migliorie a riordino, rilevamento TV e notifiche aggiornamento."
 }
