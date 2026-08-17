@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.33",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.33/GCore.apk",
-  "changelog": "Ricerca: toccando un canale ora parte subito quel canale (prima si fermava sulla scheda e non apriva il canale)."
+  "versionCode": 35,
+  "versionName": "1.0.34",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.34/GCore.apk",
+  "changelog": "Diretta: ora mostra solo i canali Sky e DAZN, e mai la versione SD (solo HD/FHD). Niente piu canali che non servono."
 }
