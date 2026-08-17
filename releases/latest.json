@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.0.25",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.25/GCore.apk",
-  "changelog": "Diretta: riconoscimento eventi molto piu ampio (sui canali sport mostra tutti i programmi tranne studio/notiziari) e, se vuota, mostra una diagnostica (canali sport / con guida EPG) per capire il motivo."
+  "versionCode": 27,
+  "versionName": "1.0.26",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.26/GCore.apk",
+  "changelog": "Diretta: risolto il caso 'eventi trovati ma lista vuota'. Finestra oraria robusta (immune al fuso del provider): ora gli eventi in onda e delle prossime ore compaiono correttamente."
 }
