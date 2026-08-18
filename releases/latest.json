@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.46",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.46/GCore.apk",
-  "changelog": "Nuovo interruttore per nascondere i canali che non funzionano (segno ⚠). Il filtro Solo Italia ora vale anche per la ricerca e copre Africa e Web-Regionali. Le sezioni EVENTI restano invariate."
+  "versionCode": 48,
+  "versionName": "1.0.47",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.47/GCore.apk",
+  "changelog": "Il filtro Solo Italia nasconde anche le categorie Web - Sport e Web - Radio (molti canali morti), oltre a Africa e Web - Canali Regionali. Vale anche per la ricerca."
 }
