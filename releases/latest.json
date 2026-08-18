@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "1.0.44",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.44/GCore.apk",
-  "changelog": "Player su telefono: la barra di avanzamento non finisce piu sotto i pulsanti e si trascina bene (area di tocco piu grande, anteprima mentre trascini). Gesture piu prevedibili: niente cambio canale per sbaglio col doppio tocco, menu che non si chiudono da soli, luminosita ripristinata all'uscita. Nuovo strumento in Utente: Verifica canali."
+  "versionCode": 46,
+  "versionName": "1.0.45",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.45/GCore.apk",
+  "changelog": "Canali che non funzionano: ora l'app se ne accorge da sola. Se un canale non parte mentre lo guardi, viene segnato con un avviso nella lista; se poi funziona, il segno sparisce. Aggiunto anche uno strumento di verifica manuale in Utente."
 }
