@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "1.0.45",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.45/GCore.apk",
-  "changelog": "Canali che non funzionano: ora l'app se ne accorge da sola. Se un canale non parte mentre lo guardi, viene segnato con un avviso nella lista; se poi funziona, il segno sparisce. Aggiunto anche uno strumento di verifica manuale in Utente."
+  "versionCode": 47,
+  "versionName": "1.0.46",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.46/GCore.apk",
+  "changelog": "Nuovo interruttore per nascondere i canali che non funzionano (segno ⚠). Il filtro Solo Italia ora vale anche per la ricerca e copre Africa e Web-Regionali. Le sezioni EVENTI restano invariate."
 }
