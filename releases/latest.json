@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "1.0.72",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.72/GCore.apk",
-  "changelog": "• Ricerca dentro la vista a colonne: scrivi il nome e trovi il canale in qualunque categoria sia\n• Risultati ordinati per pertinenza: cercando \"rai\" escono prima RAI 1, RAI 2, RAI 3\n• Su TV la ricerca si apre in un riquadro, così il telecomando continua a funzionare"
+  "versionCode": 74,
+  "versionName": "1.0.73",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.73/GCore.apk",
+  "changelog": "• La vista a colonne non fa più partire da sola il primo canale: l'anteprima si apre quando scegli tu\n• Scorrere i canali e cambiare categoria non apre più nessun collegamento al server"
 }
