@@ -1,6 +1,6 @@
 {
-  "versionCode": 74,
-  "versionName": "1.0.73",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.73/GCore.apk",
-  "changelog": "• La vista a colonne non fa più partire da sola il primo canale: l'anteprima si apre quando scegli tu\n• Scorrere i canali e cambiare categoria non apre più nessun collegamento al server"
+  "versionCode": 75,
+  "versionName": "1.0.74",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.74/GCore.apk",
+  "changelog": "• Continua a guardare: una sola riga per serie, quella dell'ultimo episodio visto\n• Prima comparivano anche gli episodi precedenti e quello successivo appena iniziato"
 }
