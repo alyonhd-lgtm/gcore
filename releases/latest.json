@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "1.0.75",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.75/GCore.apk",
-  "changelog": "• Live si apre direttamente nella vista a colonne; il tasto in alto torna alle righe\n• Nell'elenco canali si vede sempre cosa è in onda adesso, con gli orari\n• Serie TV: i tasti episodio successivo/precedente non spariscono più"
+  "versionCode": 77,
+  "versionName": "1.0.76",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.76/GCore.apk",
+  "changelog": "• L'anteprima compare solo quando scegli un canale: l'elenco passa da 5 a 11 canali visibili\n• Su TV niente più due terzi di schermo vuoti: categorie e canali si allargano\n• Sotto il programma in onda una barretta mostra quanto manca alla fine"
 }
