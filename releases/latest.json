@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "1.0.77",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.77/GCore.apk",
-  "changelog": "• Ora la guida del canale si vede davvero: programma in onda con trama e scaletta della giornata\n• Il riquadro del canale si può far scorrere: prima il contenuto restava tagliato fuori schermo"
+  "versionCode": 79,
+  "versionName": "1.0.78",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.78/GCore.apk",
+  "changelog": "• La scaletta parte da adesso: niente più programmi della mattina già finiti\n• Si aggiorna da sola col passare delle ore\n• Una freccia \"altro sotto\" indica che il riquadro si può far scorrere"
 }
