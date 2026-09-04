@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "1.0.78",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.78/GCore.apk",
-  "changelog": "• La scaletta parte da adesso: niente più programmi della mattina già finiti\n• Si aggiorna da sola col passare delle ore\n• Una freccia \"altro sotto\" indica che il riquadro si può far scorrere"
+  "versionCode": 80,
+  "versionName": "1.0.79",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.79/GCore.apk",
+  "changelog": "• Scegliendo un canale si legge subito cosa è in onda, senza dover scorrere\n• Il programma in onda ora sta sopra il tasto a tutto schermo"
 }
