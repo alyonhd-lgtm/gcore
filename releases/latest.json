@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "1.0.74",
-  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.74/GCore.apk",
-  "changelog": "• Continua a guardare: una sola riga per serie, quella dell'ultimo episodio visto\n• Prima comparivano anche gli episodi precedenti e quello successivo appena iniziato"
+  "versionCode": 76,
+  "versionName": "1.0.75",
+  "url": "https://github.com/alyonhd-lgtm/gcore/releases/download/v1.0.75/GCore.apk",
+  "changelog": "• Live si apre direttamente nella vista a colonne; il tasto in alto torna alle righe\n• Nell'elenco canali si vede sempre cosa è in onda adesso, con gli orari\n• Serie TV: i tasti episodio successivo/precedente non spariscono più"
 }
